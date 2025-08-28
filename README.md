@@ -69,6 +69,12 @@ The primary objective of this project is to **detect and monitor procurement fra
 - Demonstrates how **data-driven insights** can reduce procurement risks and improve audit efficiency.  
 
 ---
+## 🔹 Screenshots
+<img width="582" height="328" alt="Procurement_Overview" src="https://github.com/user-attachments/assets/65f671c3-f6e4-43a3-af22-d3c9a57a56f2" />
+<img width="586" height="325" alt="Fraud Monitor" src="https://github.com/user-attachments/assets/9c1d0d0d-689f-4a78-ab66-bc13b7e3a23e" />
+<img width="586" height="328" alt="Invoice_Quality" src="https://github.com/user-attachments/assets/fe0094b6-1b8a-4538-ad37-0404ac00d9d9" />
+
+---
 
 ## 🔹 Tools & Technologies  
 - **Power BI** – Dashboarding, Data Modeling, DAX.  
